@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{222:function(n,t,e){"use strict";var c=e(70),o=e(156),l=e.n(o),r=e(296),component=Object(c.a)({},(function(){var n=this.$createElement,t=this._self._c||n;return t("v-app",[t("Nuxt")],1)}),[],!1,null,null,null);t.a=component.exports;l()(component,{VApp:r.a})},232:function(n,t,e){e(233),n.exports=e(234)}},[[232,13,5,14]]]);
